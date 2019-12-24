@@ -4,6 +4,20 @@
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_eqSg8Fc5EeWo-40Qyxiobw" name="link_owner_component"
     componentClass="LINKOWNER" insertFree="true">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_4EDx4CY7Eeq0CsDZe1hjeQ"
+      name="Variable" visibility="800">
+    <domain uuid="_4EDx4SY7Eeq0CsDZe1hjeQ" name="local"
+        visibility="300">
+      <typeSet uuid="_4EDx4iY7Eeq0CsDZe1hjeQ" bitSet="393231"/>
+    </domain>
+  </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_49KkICY7Eeq0CsDZe1hjeQ"
+      name="Variable1" visibility="800">
+    <domain uuid="_49KkISY7Eeq0CsDZe1hjeQ" name="local"
+        visibility="300">
+      <typeSet uuid="_49KkIiY7Eeq0CsDZe1hjeQ" bitSet="393231"/>
+    </domain>
+  </variables>
   <cursorTwoD uuid="_WWlTcFc7EeWo-40Qyxiobw" name="Cursor2"
       twoDElementsColor="_-LmWIFc6EeWo-40Qyxiobw _GOiR0Fc7EeWo-40Qyxiobw">
     <onColor href="../product_model.xml#N65557"/>
